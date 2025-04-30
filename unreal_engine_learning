@@ -1,0 +1,11 @@
+배울 것
+1.프로젝트 템플릿을 사용하여 새로운 프로젝트를 만듭니다. 
+Create new projects using project Templates. 
+2.콘텐츠 브라우저에서 액세스할 수 있는 사용자 정의 또는 사전 제작된 자산을 기존 프로젝트에 추가합니다. 
+Add custom or premade assets to existing projects which can be accessed in the Content Browser.
+3.레벨에 액터를 추가하고 세부 정보 패널을 사용하여 해당 속성을 수정합니다. 
+Add Actors to levels and modify their properties with the Details panel.
+4.조명 액터를 사용하여 장면에 환경 조명과 효과를 추가하고 제어합니다. 
+Add and control environmental lighting and effects in a scene with Lighting Actors.
+5.블루프린트 편집기와 함께 블루프린트 액터를 사용합니다. 
+Use Blueprint Actors with the Blueprint Editor.
