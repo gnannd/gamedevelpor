@@ -9,6 +9,8 @@ Add custom or premade assets to existing projects which can be accessed in the C
 Add Actors to levels and modify their properties with the Details panel.
 
 액터추가 외부프로젝트에서 가져오거나 퀵셀 브라우저 통해서 들고 오거나 자신의 소유물을 import 하는 걸 배움.
+프로젝트 세팅에서 모든 맵의 게임모드랑 디폴트 캐릭터 세팅을 할 수 있다. 만약 레벨마다 다르게 하고 싶으면 월드세팅에 설정하면 된다. ex) 맵마다 1인칭, 3인칭 다르게 한다던지 
+
 
 4.조명 액터를 사용하여 장면에 환경 조명과 효과를 추가하고 제어합니다. 
 Add and control environmental lighting and effects in a scene with Lighting Actors.
